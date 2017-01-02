@@ -1,7 +1,7 @@
 # MERN-Stack
 
 ### Usage
-Prerequiste: Make sure your mongodb instance is running the background on default 27017 port. If not run "mongod" on a terminal window to start mongodb.
+Prerequiste: Make sure your mongodb instance is running the background on default 27017 port. If not running type "mongod" on a terminal window to start mongodb.
 
 ```
 git clone <This repo URL>
@@ -29,7 +29,11 @@ webpack built 28ece78b17c7786fdb4e in 8008ms
 Screenshots
 
 
-![alt tag]()
+![alt tag](https://github.com/hitesh00025/MERN-Stack/blob/master/Screen%20Shot%202017-01-02%20at%204.23.27%20PM.png)
+
+![alt tag](https://github.com/hitesh00025/MERN-Stack/blob/master/Screen%20Shot%202017-01-02%20at%204.23.38%20PM.png)
+
+![alt tag](https://github.com/hitesh00025/MERN-Stack/blob/master/Screen%20Shot%202017-01-02%20at%204.41.18%20PM.png)
 
 ### Reference:
 App created using mern.io.
